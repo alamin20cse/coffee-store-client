@@ -14,8 +14,8 @@ const CoffeeCard = ({ coffee ,Coffees,setCoffees}) => {
 
     const handleDelet = _id => {
         console.log(_id);
-
-
+    
+    
         // sweet 
 
         Swal.fire({
